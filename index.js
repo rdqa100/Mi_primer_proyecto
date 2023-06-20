@@ -5,4 +5,4 @@ function cambiarImagen1() {
 function cambiarImagen2() {
     document.getElementById("imagen").src="https://rickandmortyapi.com/api/character/avatar/76.jpeg"
 }
-
+console.log("David")
